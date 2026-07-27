@@ -14,7 +14,19 @@ Email Me 👉 ✉️ **malikawaisabbas7@gmail.com** for collaborations, freelanc
 - ⚡ **Fun fact:** I enjoy transforming real-world ideas into modern Android applications and continuously learning new technologies to build better software.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ linkedin.com/in/awaisabbas7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikawaisabbas7@gmail.com) 
+
+<p align="left">
+  <a href="https://linkedin.com/in/awaisabbas7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=malikawaisabbas7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <!-- Snake Game Repo View -->
 
